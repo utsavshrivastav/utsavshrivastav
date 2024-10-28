@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Utsav Shrivasatav</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<h3 align="center">A passionate software developer from India</h3>
+<!--
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3NUUDtTuF49WVl8xb3giA2&ust=1730231339059000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCu75zssYkDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/e84f7dc9-2fe3-4d75-98b4-a21a12b59e82)
-">
+"> 
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavshrivastav&label=Profile%20views&color=0e75b6&style=flat" alt="utsavshrivastav" /> </p>
 
